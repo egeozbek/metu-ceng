@@ -1,0 +1,17 @@
+14 3
+15
+Benti F1
+Leifi H0 J0 E0
+Gulfi F1 I2 N0
+Hori F0 C2 L2
+Keli K1
+Thrynju C1 G2 D0
+Asir G1 I0 M1 N0
+Bili G2 D2 G1
+Eland J1 J0 B1
+Tigo N0 H2
+Kraldri L1 I0 H2
+Kioldi J1 M0 D0 B2
+Rolfi K0
+Yrkarn B2 B0
+Vebri C2

@@ -1,0 +1,7 @@
+17 5
+5
+Thire G2 F3 A4 F4 N1 K3 M2 G0
+Hriri N4 E4 C0 O3 A1
+Vardri E1 G2 M2 J4 L2 K3 N0
+Olsir I2 E4 M0 J2 K1 N4 C3 C1 M1
+Vesti M0

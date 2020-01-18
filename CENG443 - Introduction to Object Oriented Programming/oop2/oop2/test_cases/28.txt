@@ -1,0 +1,15 @@
+16 6
+13
+Hjarli K2 L3 L2 I4 C3 F1
+Godfri N4 E5 I4 K3
+Haki K1 D3 A2 A0 D5
+Horde E3 J3 O2 B3 I5 A3 O4 N2
+Gere D0 M5
+Fastri I0 O0 N3
+Brimi C0 B3 K5 J5 N3
+Holmgi P3 O2 B5 M3 N5 J1
+Vide E0 H4 M5 G2 I3 H3
+Arned O3 H1 B5
+Amkerth K3 H4 B3 J0 L5 P1 N5
+Branki E3 A0 O2 K0 L5 J0 F0
+Gefri B0

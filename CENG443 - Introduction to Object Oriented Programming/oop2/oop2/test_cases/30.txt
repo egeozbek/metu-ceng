@@ -1,0 +1,17 @@
+14 6
+15
+Ridi G0 D5 H1 I5 J4 H0 H5
+Sami E2 D4 G3 H4 D3 F1
+Andvert N4 C4
+Gimi D0 D2 N0 L0 A2 E2
+Gini M1 A0 F3
+Hiortri B3 C0 N5 N0 L3 G0
+Kuli M4
+Finna K0 F4 A2 D4
+Kili M2 L5 N0 F0 L1 K1
+Cnolfri N0 E0 M1 E5 E3
+Bredi E4 C5 I2 N0 I5 H4
+Hrosti A3 D0 G1 I5 K1 M2
+Vidi L5
+Hali D5 N3 B2 J1 F5 E5 A3
+Geiri N5 H0 D2 N0 N3 E3 J3

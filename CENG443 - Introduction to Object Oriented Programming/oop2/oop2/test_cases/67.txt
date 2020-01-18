@@ -1,0 +1,9 @@
+25 4
+7
+Orgein N1 S0
+Berne R3
+Arir F3 B0 V1 K2 R3 Q1 E1 D2 O0
+Geri D0 U1 U3 B2
+Hunre L1 O1 K2 J0 P3
+Agnundr K1 K3 D0 F2 P2 D3
+Berni G1 C1 S3 Q1 W0 N1 D1

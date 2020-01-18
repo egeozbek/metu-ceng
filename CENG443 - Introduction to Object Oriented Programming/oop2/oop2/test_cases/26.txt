@@ -1,0 +1,14 @@
+6 5
+12
+Alfind E1
+Hondi C3 C4 F1 F0
+Thorke E4
+Styrki A0 A2 E4
+Agmund D3
+Sumi F1 A3
+Stiri D4 C3 D0 C0
+Bekke E4
+Tare C0
+Edin C3
+Glauge B4
+Malde A3 B3 B4

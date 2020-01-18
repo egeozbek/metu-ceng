@@ -1,0 +1,11 @@
+8 6
+9
+Keti B2 F3 B1
+Heri D0 A1 D1 G5 G4
+Benti F2 H3 B4
+Thare E1 E4
+Arnlaun F2 F0
+Aman A2 F4 G3 E4 D0 B4
+Sumi E4 H4 A3 F4
+Horni D3 C3
+Sondi D1 D0

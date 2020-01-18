@@ -1,0 +1,15 @@
+14 8
+13
+Allkert G1 A3
+Salti A6 M7 E2 M0 E6 B2
+Asir I3 L0
+Utirr E0 F1 N5 C3 H4 K7
+Baldi D7 A6 A0 I4 F7
+Nulfi E2 K5 A7 A0 L2 B2 B6
+Arnlaund E4 B0 B3
+Brundri N1 M2 K5 F3 C7 M1 J6
+Koni J6 A7 N4 H0 J4
+Skalti B3 C6
+Haddi I6 C2 D1 B5 A3 N0
+Herju M2 L2 D2 G7 C3 H3 F2 A6 C2
+Randi L6 J6 H5 M7 E1 J3 J0

@@ -1,0 +1,17 @@
+15 6
+15
+Horfri E3
+Orer J5 O2 D1 D0
+Horni C2 J4 M0 B5 N5 D2 N4
+Altill E0 E5
+Jofi E2
+Gibja K4 M0 F1
+Skrimi B3 O2 O4
+Aldegg D3 J5 G5
+Hori F3 M0 N0
+Gunle B4 D4 O4 O5 D3 D2
+Haisli N4 G0 C5 O5
+Havgri D4
+Asvall A3 E4 O5 D5 J4 F1
+Veni G2 H2 I3
+Byro D5 B3

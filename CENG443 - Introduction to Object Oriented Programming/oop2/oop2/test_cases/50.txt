@@ -1,0 +1,12 @@
+15 4
+10
+Eidmund C3 K1
+Herla E3 M1 G0 D3 M2 J1
+Sivi C1 K2 K1 F0 D1
+Adard H0 B0 I2
+Hari J2 G1 H2 C0
+Vardri D0 I3 I2 N3 C3 J2
+Haddi E3 A2 O2 K0
+Malde D1 L3 B3 N1 M3 F0
+Abjorm O3 D3 A3 D2
+Finni D2 J1

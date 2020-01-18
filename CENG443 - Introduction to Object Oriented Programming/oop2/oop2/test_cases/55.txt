@@ -1,0 +1,13 @@
+5 3
+11
+Anulf C0 C2
+Keti D1
+Arar E1
+Sicfre B0
+Skelli A0
+Abjorm A2
+Teini E0 E2 C2
+Sige C2 A0 E0
+Kari E2
+Orgik D2
+Svere A0

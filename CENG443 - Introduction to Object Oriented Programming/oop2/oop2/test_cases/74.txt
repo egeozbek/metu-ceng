@@ -1,0 +1,4 @@
+3 3
+2
+Sigbju A1 C1 C2 A2 C0 B1 A0
+Lachi B1 B0 B2

@@ -1,0 +1,10 @@
+8 5
+8
+Arin A0 H1
+Horgo B2 H3 H1 A0 G0 C4
+Gosli F3
+Orfir B1 E2 E4
+Agning F2 A2
+Gimi C0 F4 D2 B2
+Hundi C2 C1 H2 C4 B1 D3
+Verki D3 H1 A4 D0 C2

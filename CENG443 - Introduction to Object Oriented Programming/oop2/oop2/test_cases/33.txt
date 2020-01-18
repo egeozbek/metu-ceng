@@ -1,0 +1,5 @@
+4 4
+3
+Fradi D1 D0 D3 C1 B2 A2 D2 A0 A1 A3
+Asbjolf B1 B3 B2 B0
+Aldulffr C0 C2 C3 C1

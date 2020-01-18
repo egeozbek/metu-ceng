@@ -1,0 +1,4 @@
+9 6
+2
+Anulfr H4 A4 B4 G4 E4 I4 C4 D4 F4
+Vare D1 D0 D3 D4 D2 D5

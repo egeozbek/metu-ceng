@@ -1,0 +1,4 @@
+7 9
+2
+Gine E3 F3 G3 A3 C3 B3 D3
+Arar C1 C6 C8 C5 C2 C7 C3 C0 C4

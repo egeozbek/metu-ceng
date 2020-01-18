@@ -1,0 +1,12 @@
+9 3
+10
+Throcops I0 D2 G0
+Agnin H2 F1 G0
+Randi H2 E1
+Hrolli H2 D1
+Agif C1 B0 G1
+Fraldri I0 D0
+Avand C0
+Gudke C1 D0
+Lago I0 G1
+Arar A1 I0 F0 C0

@@ -1,0 +1,4 @@
+8 5
+2
+Anig H0 A0 G0 B0 F0 E0 C0 D0
+Imald C4 C1 C2 C0 C3

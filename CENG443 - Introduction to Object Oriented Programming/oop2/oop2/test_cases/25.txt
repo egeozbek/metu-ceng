@@ -1,0 +1,14 @@
+5 3
+12
+Olvell A2
+Salmi D0
+Mundi B2 C1
+Eydrin B2
+Hulfi A0 B0
+Vidfi C0 C1 A0
+Aval C2 E0
+Hori B0
+Bildre C1
+Orgutr A1 B0 E1
+Rimi B0 D2
+Brundri B0 B1 C0

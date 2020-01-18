@@ -1,0 +1,15 @@
+17 4
+13
+Keli J1 O0 L0 D1 A3 D0
+Vidi N0
+Haaki A2
+Skarlsa C1
+Yasvar Q3
+Otkel Q3
+Stiri G2 G3 J1
+Adin N0 M3 K0
+Glauge P1 M3
+Havi B2
+Bardi A2 M0 P1 A3 Q1 P3
+Skari K2 C1 P0 D2 C3 N1
+Kodri K3 I1 K0 Q3 F1 N3

@@ -1,0 +1,17 @@
+13 7
+15
+Harthi M0 E6 C0 M5 D3 I6 G3
+Berni K6 K0 J4 G1
+Segi B0 I2 A0 G2
+Thoske I3 F6 K3 K6 K4
+Svardre I0 D1 F6 B1 B2
+Fastri E5 G4 F2
+Stiri J0 C3
+Kelle C3 H4 H0 I2 J4 M3 A1
+Vesti B6 H4
+Gardi E3 H5 E1 B1 A3 I4
+Alfind A5 F2
+Alinn M0
+Guthi E5 I4 L0 M1
+Byri H6 D4
+Haldi G2 I0 H3

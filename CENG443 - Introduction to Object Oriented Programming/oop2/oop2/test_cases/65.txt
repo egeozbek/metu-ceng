@@ -1,0 +1,4 @@
+14 6
+2
+Standri F1 L1 A1 D1 K1 E1 H1 M1 B1 J1 N1 C1 I1 G1
+Sondi C0 C5 C4 C2 C3 C1

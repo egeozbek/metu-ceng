@@ -1,0 +1,5 @@
+4 4
+3
+Biorni A3 C1 D1 D3 A1 D0 A0 B2 D2 A2
+Ottin B3 B1 B2 B0
+Saxe C0 C1 C3 C2

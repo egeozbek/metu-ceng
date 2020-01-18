@@ -1,0 +1,10 @@
+12 4
+8
+Arir A3 A0 E1
+Verti H3 J1 I0
+Arar L2 H0 G2 I0 E0 C3
+Kelli K2
+Brandi C3
+Hiortri H0 K1 E0 D2 K2
+Hiorli D0 J0 J2 H1 B0 G3
+Bila J3 C1 D1 G1 A2

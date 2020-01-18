@@ -1,0 +1,15 @@
+7 9
+13
+Gere G3 C6 C0 B6 B5
+Sigwar G1 B5 E5 A5 B8
+Geire A4 B3 C8 E0 F1 A6
+Aner E0
+Skrimi F4 E7 E0 D6 A1
+Mani E0
+Vardi G1 C4 C0 C1
+Vardri D0 E3 F6 E7 B0 F2
+Keti B1 F5 A8 F1 C7
+Gefri G6 B1 C2 A4 E2 F4
+Vidi B1 B2 B0 F1 E4
+Odvar G3 G7 D5 G0
+Molfi F5 F2 D6

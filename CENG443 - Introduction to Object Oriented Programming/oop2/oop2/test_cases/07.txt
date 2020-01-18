@@ -1,0 +1,6 @@
+3 3
+4
+Steni B1 A0
+Baldi B0
+Guti A0 C0 C2
+Thrimi A0 A2

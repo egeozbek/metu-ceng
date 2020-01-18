@@ -1,0 +1,14 @@
+13 3
+12
+Thalvdi G1 I2
+Sorkve I1
+Arlin E0 E2 H2 L1 B1
+Guri K1 I2 G2
+Gurdi K2 B0 M2 L2
+Vidfi L1 I1
+Itin L1 I2 J1 H1
+Otorn B0
+Randi G2
+Alin D0 F0 A2
+Aunin M1 M2 D0 A2
+Hori B2
