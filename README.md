@@ -1,4 +1,5 @@
-# Middle East Technical University - Department Of Computer Engineering 
+# Middle East Technical University (METU)
+# Department Of Computer Engineering (CENG)
 ## Take Home Exams(THE) Solutions
 
 This repository is the end result of spending many restless nights in department laboratories. 
