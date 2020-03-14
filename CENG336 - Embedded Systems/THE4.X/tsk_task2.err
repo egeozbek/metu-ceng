@@ -1,0 +1,7 @@
+Warning[2054] tsk_task2.c 229 : suspicious pointer conversion
+Warning[2054] tsk_task2.c 269 : suspicious pointer conversion
+Warning[2054] tsk_task2.c 306 : suspicious pointer conversion
+Warning[2058] tsk_task2.c 361 : call of function without prototype
+Warning[2058] tsk_task2.c 367 : call of function without prototype
+Warning[2058] tsk_task2.c 378 : call of function without prototype
+Warning[2058] tsk_task2.c 384 : call of function without prototype

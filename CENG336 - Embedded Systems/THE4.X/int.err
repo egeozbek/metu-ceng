@@ -1,0 +1,6 @@
+Warning[2058] int.c 47 : call of function without prototype
+Warning[2058] int.c 50 : call of function without prototype
+Warning[2054] int.c 67 : suspicious pointer conversion
+Warning[2054] int.c 69 : suspicious pointer conversion
+Warning[2054] int.c 75 : suspicious pointer conversion
+Warning[2054] int.c 77 : suspicious pointer conversion
